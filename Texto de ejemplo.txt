@@ -1,0 +1,17 @@
+Este es un texto de ejemplo
+No voy a exntenderme mucho voy a hacer un par de cosas como dobles espacios aquí     y aquí
+
+Y también saltos de línea como aquí o 
+
+Aquí hice un salto de linea
+
+
+Ahora voy a hacer dos saltos de línea.
+
+Y
+Aquí
+un
+montón
+De 
+texto
+rápido
